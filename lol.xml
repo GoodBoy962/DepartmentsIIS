@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<departments>
+    <department depCode="11" depJob="22" description="des2"/>
+    <department depCode="33" depJob="22" description="des10"/>
+    <department depCode="11" depJob="41" description="des3"/>
+    <department depCode="22" depJob="41" description="des4"/>
+    <department depCode="22" depJob="42" description="des5"/>
+    <department depCode="33" depJob="21" description="des9"/>
+    <department depCode="33" depJob="43" description="des10"/>
+    <department depCode="33" depJob="88" description="des10"/>
+    <department depCode="33" depJob="4399" description="des10"/>
+</departments>
